@@ -1,1 +1,48 @@
 /* tehtävä 16 */
+h1, #nimi1 {
+color: green;
+font-family: fantasy;
+}
+h2, #nimi2 {
+color: magenta;
+font-family: monospace;
+}
+.yks {
+color: red;
+font-size: 10px;
+}
+.kaks {
+color: green;
+font-size: 12px;
+}
+.kolme{
+color: blue;
+font-size: 14px;
+}
+.neljä{
+color: yellow;
+font-size: 13px;
+}
+.viis{
+color: purple;
+font-size: 11px;
+}
+.kuus{
+  color: gray;
+  font-size: 9px;
+}
+#kpl1 {
+    font-family: 'Nerko One', cursive;
+}
+#kpl2 {
+    font-family: 'Texturina', serif;
+}
+#kpl3 {
+font-family: 'Goldman', cursive;
+}
+#kpl31 {
+font-family: 'Texturina', serif;
+}
+#kpl4 {
+font-family: 'Dancing Script', cursive;
+}
